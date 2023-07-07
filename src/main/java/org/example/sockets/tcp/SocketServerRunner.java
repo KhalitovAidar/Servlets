@@ -1,4 +1,4 @@
-package org.example.sockets;
+package org.example.sockets.tcp;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
